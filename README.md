@@ -20,14 +20,14 @@ step1- Create an Project using Command:
 
 Step2:-  Run the server . To run the server we have to stay in the same directory and run the command:
 
-$ py manage.py runserver
+<pre>$ py manage.py runserver</pre>
 
 After this execution, it show's a utls and that url shows  the django successfully working web page.
 
 
 Step3:- Create an app for our Project. In django project app is used to provide the functionality to our webpages. how link works 
 
-$ py manage.py startapp appname
+$ <pre>py manage.py startapp appname</pre>
 
 After Creating an app folder first thing is to do is add app name in the project setting.py folder under INSTALLED APPS section.
 
